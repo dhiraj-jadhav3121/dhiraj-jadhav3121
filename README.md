@@ -1,67 +1,89 @@
-<h1 align="center">Hi 👋, I'm Dhiraj Jadhav</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<!-- Typing SVG Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Dhiraj+Jadhav;Full+Stack+Java+Developer;Passionate+Learner+%26+Coder" />
+</h1>
+
+<h3 align="center">🚀 A Passionate FullStack Developer from India 🇮🇳</h3>
+
+---
 
 <p align="center">
   <!-- Profile Views Badge -->
-  <img src="https://img.shields.io/badge/Profile%20Views-1234-blue?style=for-the-badge" alt="Profile Views" />
-  <!-- Followers Badge -->
-  <img src="https://img.shields.io/github/followers/dhiraj-jadhav3121?label=Followers&style=for-the-badge" alt="Followers" />
-  <!-- Repo Count Badge -->
+  <img src="https://komarev.com/ghpvc/?username=dhiraj-jadhav3121&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-### 🔭 Currently Working On
+## 🔭 Currently Working On
 ![Working On](https://img.shields.io/badge/Working%20On-The%20Kiran%20Academy-yellow?style=for-the-badge)
 
-### 🌱 Currently Learning
-![Spring Boot](https://img.shields.io/badge/Learning-SpringBoot-brightgreen?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Learning-Microservices-blue?style=for-the-badge)
-![DSA](https://img.shields.io/badge/Learning-DSA-orange?style=for-the-badge)
+## 🌱 Currently Learning
+![Spring Boot](https://img.shields.io/badge/Learning-SpringBoot-brightgreen?style=for-the-badge&logo=spring)
+![Microservices](https://img.shields.io/badge/Learning-Microservices-blue?style=for-the-badge&logo=docker)
+![DSA](https://img.shields.io/badge/Learning-DSA-orange?style=for-the-badge&logo=leetcode)
 
-### 💬 Ask Me About
-![Java](https://img.shields.io/badge/Java-Ask%20Me-blue?style=for-the-badge)
-![FullStack](https://img.shields.io/badge/FullStack-Development-orange?style=for-the-badge)
+## 💬 Ask Me About
+![Java](https://img.shields.io/badge/Java-Ask%20Me-blue?style=for-the-badge&logo=java)
+![FullStack](https://img.shields.io/badge/FullStack-Development-orange?style=for-the-badge&logo=angular)
 
-### 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-dhiraj.jadhav9767@gmail.com-red?style=for-the-badge)](mailto:dhiraj.jadhav9767@gmail.com)
+## 📫 How to Reach Me
+[![Email](https://img.shields.io/badge/Email-dhiraj.jadhav9767@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dhiraj.jadhav9767@gmail.com)
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/dhiraj-jadhav-80" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Jadhav-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Jadhav-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/dhiraj-jadhav3121" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Dhiraj%20Jadhav-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-dhiraj--jadhav3121-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,nodejs,python,mysql,hibernate,git,github,html,css,js,ts" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj-jadhav3121&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-jadhav3121&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj-jadhav3121&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-jadhav3121&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
 
-### 🔥 GitHub Streak (Snake Style)
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj-jadhav3121&theme=radical&mode=snake" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhiraj-jadhav3121&theme=radical&margin-w=15&margin-h=15&row=1" />
 </p>
 
 ---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj-jadhav3121&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj-jadhav3121&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhiraj-jadhav3121/dhiraj-jadhav3121/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+✨ _"Code. Learn. Build. Repeat."_ 🚀
